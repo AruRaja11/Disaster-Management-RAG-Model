@@ -2,8 +2,8 @@
 
 This project is a smart and interactive **Disaster Management Chatbot** built using **LangChain**, **Streamlit**, and **Gemini AI (via Google Generative AI)**. It provides real-time and relevant answers by combining Retrieval-Augmented Generation with an easy-to-use frontend.
 
-![Alt Text](image_url_or_path)
-![Alt Text](image_url_or_path)
+![Alt Text](https://github.com/AruRaja11/Disaster-Management-RAG-Model/blob/c4fe90a599280fe6fc255f4b2b2bd498d8da8db9/Screenshots/Screenshot1.png)
+![Alt Text](https://github.com/AruRaja11/Disaster-Management-RAG-Model/blob/c4fe90a599280fe6fc255f4b2b2bd498d8da8db9/Screenshots/Screenshot2.png)
 
 
 ## 🚀 Features
@@ -23,4 +23,10 @@ This project is a smart and interactive **Disaster Management Chatbot** built us
 - Python 🐍
 
 ## 📁 Project Structure
+📂 rag-investment-guide
+│
+├── app.py                 # Streamlit app
+├── rag.py                 # RAG implementation using LangChain
+├── .env                   # API key (not committed)
+└── README.md              # You're reading it!
 
